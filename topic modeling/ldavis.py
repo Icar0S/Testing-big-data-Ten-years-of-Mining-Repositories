@@ -27,19 +27,10 @@ stop_words.add("x")
 stop_words.add("et")
 stop_words.add("c")
 stop_words.add("al")
-stop_words.add("applications")
-stop_words.add("services")
-stop_words.add("systems")
-stop_words.add("approaches")
-stop_words.add("costs")
-stop_words.add("servers")
-stop_words.add("resources")
-stop_words.add("microservices")
-stop_words.add("goals")
 
 texts = []
 
-directory = "artigo/conteudo"
+directory = "docs/text/test"
 
 for filename in os.listdir(directory):
     if filename.endswith(".txt"):
