@@ -1,0 +1,3 @@
+aspose-words==24.11.0
+nltk==3.9.1
+gensim==4.3.3
