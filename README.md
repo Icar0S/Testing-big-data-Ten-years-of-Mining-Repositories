@@ -51,7 +51,7 @@ This folder contains visualizations and charts related to the analysis of the da
 
 This folder contains the relevant documents detailing the methodology and protocols used in this study:
 
-- [**Data-Mining-Protocol.pdf**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/docs/Data-Mining-Protocol.pdf): The Data Mining Protocol used to collect and process data from StackExchange, LinkedIn, Medium, and Dev.to, including inclusion and exclusion criteria.
+- [**Data-Mining-Protocol.pdf**](https://github.com/Icar0S/Testing-big-data-Ten-years-of-Mining-Repositories/blob/main/documents/Protocol%20Research%20-%20Testing%20big%20data_%20Ten%20years%20of%20Mining%20Repositories.pdf): The Data Mining Protocol used to collect and process data from StackExchange, LinkedIn, Medium, and Dev.to, including inclusion and exclusion criteria.
 
 ---
 
