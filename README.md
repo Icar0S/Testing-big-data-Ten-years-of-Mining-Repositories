@@ -29,10 +29,10 @@ The data was processed and filtered to ensure high quality, focusing on content 
 
 This folder contains all the data resulting from the mining process:
 
-- [**Testing-Tools-in-BigData-Articles.xlsx**](https://github.com/your-repository/testing-tools-bigdata/tree/main/dataset/Testing-Tools-in-BigData-Articles.xlsx): Table containing details about articles and discussions related to testing tools in Big Data systems. It includes article ID, publication year, source, and specific tools and practices mentioned.
-- [**StackExchange-Data-Results.xlsx**](https://github.com/your-repository/testing-tools-bigdata/tree/main/dataset/StackExchange-Data-Results.xlsx): Table with results from queries performed on the Stack Exchange Data Explorer, showing relevant discussions, tags, and keywords associated with Big Data testing tools and practices.
-- [**LinkedIn-Data-Results.xlsx**](https://github.com/your-repository/testing-tools-bigdata/tree/main/dataset/LinkedIn-Data-Results.xlsx): Table with mining results from LinkedIn posts and articles about Big Data testing tools and methods.
-- [**DevTo-Data-Results.xlsx**](https://github.com/your-repository/testing-tools-bigdata/tree/main/dataset/DevTo-Data-Results.xlsx): Table containing developer posts related to Big Data testing, including tools, techniques, and methodologies.
+- [**Testing-Tools-in-BigData-Articles.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/Testing-Tools-in-BigData-Articles.xlsx): Table containing details about articles and discussions related to testing tools in Big Data systems. It includes article ID, publication year, source, and specific tools and practices mentioned.
+- [**StackExchange-Data-Results.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/StackExchange-Data-Results.xlsx): Table with results from queries performed on the Stack Exchange Data Explorer, showing relevant discussions, tags, and keywords associated with Big Data testing tools and practices.
+- [**LinkedIn-Data-Results.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/LinkedIn-Data-Results.xlsx): Table with mining results from LinkedIn posts and articles about Big Data testing tools and methods.
+- [**DevTo-Data-Results.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/DevTo-Data-Results.xlsx): Table containing developer posts related to Big Data testing, including tools, techniques, and methodologies.
 
 ---
 
@@ -40,10 +40,10 @@ This folder contains all the data resulting from the mining process:
 
 This folder contains visualizations and charts related to the analysis of the data:
 
-- [**Top-Testing-Tools.png**](https://github.com/your-repository/testing-tools-bigdata/tree/main/figures/Top-Testing-Tools.png): A bar chart showing the most frequently mentioned testing tools, such as Selenium, JUnit, and others.
-- [**Top-Testing-Methods.png**](https://github.com/your-repository/testing-tools-bigdata/tree/main/figures/Top-Testing-Methods.png): A chart depicting the most commonly mentioned testing methods, including Unit Testing, Regression Testing, and Load Testing.
-- [**Data-Source-Distribution.png**](https://github.com/your-repository/testing-tools-bigdata/tree/main/figures/Data-Source-Distribution.png): A pie chart showing the distribution of data collected from each source (e.g., StackExchange, LinkedIn, Medium, Dev.to).
-- [**Testing-Practices-Trends.png**](https://github.com/your-repository/testing-tools-bigdata/tree/main/figures/Testing-Practices-Trends.png): A graph showing the trends in Big Data testing practices over time (2014-2024).
+- [**Top-Testing-Tools.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Top-Testing-Tools.png): A bar chart showing the most frequently mentioned testing tools, such as Selenium, JUnit, and others.
+- [**Top-Testing-Methods.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Top-Testing-Methods.png): A chart depicting the most commonly mentioned testing methods, including Unit Testing, Regression Testing, and Load Testing.
+- [**Data-Source-Distribution.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Data-Source-Distribution.png): A pie chart showing the distribution of data collected from each source (e.g., StackExchange, LinkedIn, Medium, Dev.to).
+- [**Testing-Practices-Trends.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Testing-Practices-Trends.png): A graph showing the trends in Big Data testing practices over time (2014-2024).
 
 ---
 
@@ -51,8 +51,7 @@ This folder contains visualizations and charts related to the analysis of the da
 
 This folder contains the relevant documents detailing the methodology and protocols used in this study:
 
-- [**Data-Mining-Protocol.pdf**](https://github.com/your-repository/testing-tools-bigdata/tree/main/docs/Data-Mining-Protocol.pdf): The Data Mining Protocol used to collect and process data from StackExchange, LinkedIn, Medium, and Dev.to, including inclusion and exclusion criteria.
-- [**Search-Strategy-Details.pdf**](https://github.com/your-repository/testing-tools-bigdata/tree/main/docs/Search-Strategy-Details.pdf): Detailed documentation of the search strings and filters used to query each platform and source.
+- [**Data-Mining-Protocol.pdf**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/docs/Data-Mining-Protocol.pdf): The Data Mining Protocol used to collect and process data from StackExchange, LinkedIn, Medium, and Dev.to, including inclusion and exclusion criteria.
 
 ---
 
@@ -87,4 +86,4 @@ For any inquiries or collaborations, please feel free to contact the repository 
 
 ---
 
-**To see more about the project, click** [here](https://github.com/your-repository/testing-tools-bigdata).
+**To see more about the project, click** [here](https://github.com/Icaro0S/testing-tools-bigdata).
