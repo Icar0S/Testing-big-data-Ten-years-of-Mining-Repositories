@@ -7,6 +7,10 @@ import string
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
+# Baixar recursos
+nltk.download("stopwords")
+nltk.download("punkt_tab")
+
 stop_words = set(stopwords.words("english"))
 
 stop_words.update(list(string.punctuation))
@@ -34,7 +38,9 @@ directory = "docs/text/test"
 
 for filename in os.listdir(directory):
     if filename.endswith(".txt"):
-        with open(os.path.join(directory, filename), "r") as f:
+        with open(
+            os.path.join(directory, filename), "r", encoding="utf-8", errors="ignore"
+        ) as f:
             text = f.read()
             words = word_tokenize(text)
             texts.append(text)
