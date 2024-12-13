@@ -31,10 +31,18 @@ stop_words.add("x")
 stop_words.add("et")
 stop_words.add("c")
 stop_words.add("al")
+stop_words.add("data")
+stop_words.add("sign")
+stop_words.add("like")
+stop_words.add("comment")
+stop_words.add("copy")
+stop_words.add("link")
+stop_words.add("follow")
+stop_words.add("need")
 
 texts = []
 
-directory = "docs/text/test"
+directory = "docs/miner_posts"
 
 for filename in os.listdir(directory):
     if filename.endswith(".txt"):
@@ -60,4 +68,4 @@ corpus = [dictionary.doc2bow(text) for text in words]
 lda_model = gensim.models.LdaModel(corpus, num_topics=6, id2word=dictionary, passes=2)
 
 lda_display = pyLDAvis.gensim_models.prepare(lda_model, corpus, dictionary)
-pyLDAvis.save_html(lda_display, "lda6novotopics.html")
+pyLDAvis.save_html(lda_display, "lda-topics-miner-posts.html")
