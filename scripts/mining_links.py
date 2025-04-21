@@ -1,41 +1,45 @@
 import requests
 import pandas as pd
 import time
+import os
 
-queriesM = [
+API_KEY = os.getenv("API_KEY")
+CX = os.getenv("CX")
+
+queriesMedium = [
     # 2024 a 2020
     'site:medium.com ("big data" OR "data quality") AND test* daterange:20200101-20211231',
     'site:medium.com ("big data" OR "data quality") AND test* daterange:20210101-20211231',
     'site:medium.com ("big data" OR "data quality") AND test* daterange:20220101-20221231',
     'site:medium.com ("big data" OR "data quality") AND test* daterange:20230101-20231231',
     'site:medium.com ("big data" OR "data quality") AND test* daterange:20240101-20241231',
-    # 2019 a 2014
-    'site:medium.com ("big data" OR "data quality") AND test* daterange:20140101-20191231',
+    # 2019 a 2015
+    'site:medium.com ("big data" OR "data quality") AND test* daterange:20150101-20191231',
 ]
-queriesL = [
+queriesLinkedin = [
     # 2024 a 2020
     'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20200101-20211231',
     'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20210101-20211231',
     'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20220101-20221231',
     'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20230101-20231231',
     'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20240101-20241231',
-    # 2019 a 2014
-    'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20140101-20191231',
+    # 2019 a 2015
+    'site:linkedin.com ("big data" OR "data quality") AND test* daterange:20150101-20191231',
 ]
-queriesD = [
+queriesDevto = [
     # 2024 a 2020
     'site:dev.to ("big data" OR "data quality") AND test* daterange:20200101-20211231',
     'site:dev.to ("big data" OR "data quality") AND test* daterange:20210101-20211231',
     'site:dev.to ("big data" OR "data quality") AND test* daterange:20220101-20221231',
     'site:dev.to ("big data" OR "data quality") AND test* daterange:20230101-20231231',
     'site:dev.to ("big data" OR "data quality") AND test* daterange:20240101-20241231',
-    # 2019 a 2014
-    'site:dev.to ("big data" OR "data quality") AND test* daterange:20140101-20191231',
+    # 2019 a 2015
+    'site:dev.to ("big data" OR "data quality") AND test* daterange:20150101-20191231',
 ]
 
 all_links = []
 
-for query in queriesD:
+for query in queriesMedium:
     print(f"Buscando resultados para a query: {query}")
     for start in range(1, 101, 10):
         try:
