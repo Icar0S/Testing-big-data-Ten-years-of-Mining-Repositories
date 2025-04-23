@@ -1,7 +1,9 @@
 import pandas as pd
 
 # Nome do arquivo CSV de entrada
-input_csv = "../data/extracted_posts_with_content.csv"  # Substitua pelo caminho do seu arquivo CSV
+input_csv = (
+    "../data/aggregates_unique_links.xls"  # Substitua pelo caminho do seu arquivo CSV
+)
 output_txt = "./docs/miner_posts/output_file.txt"  # Nome do arquivo de saída .txt
 
 # Carregar o CSV
