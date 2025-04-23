@@ -1,0 +1,354 @@
+Link,Tools_Found,Methods_Found
+https://dev.to/meghasharmaaaa/devops-toolchain-mlo,JUnit; Selenium; TestNG,
+https://dev.to/chaets/airflow-vs-dagster-orchestration-story-for-your-data-platform-3pko,,Unit Testing
+https://dev.to/harisapnanair/machine-learning-in-software-testing-54mp,JUnit; Selenium,Integration Testing; Regression Testing; Unit Testing
+https://dev.to/kuwv/applying-devsecops-within-databricks-3496,,Integration Testing; Unit Testing
+https://dev.to/adityar15/laravel-api-import-1-million-records-with-validation-in-few-seconds-29po,Postman,
+https://dev.to/prodevopsguytech/azure-devops-series-azure-test-plans-2fle,,Exploratory Testing
+https://dev.to/karthik_goutam/how-to-build-a-datawarehouse-53op,,Acceptance Testing
+https://dev.to/philipfong/adding-standalone-or-one-off-scripts-in-your-playwright-suite-3kng,Jest,
+https://dev.to/aws-builders/aws-step-functions-using-parallel-state-34dm,,Load Testing
+https://dev.to/berthaw82414312/guide-to-chrome-remote-debugging-3ok7,Selenium,Integration Testing; Unit Testing
+https://dev.to/marufhossain/how-pythons-rich-ecosystem-of-libraries-is-transforming-the-way-developers-approach-complex-534g,Selenium,
+https://dev.to/prankurpandeyy/leveraging-salesforce-mulesoft-for-seamless-data-integration-2dlc,,Integration Testing
+https://dev.to/gauri1504/advanced-cicd-pipeline-configuration-strategies-4mjh,,Unit Testing
+https://dev.to/keploy/how-to-compare-json-data-a-complete-guide-2f95,Postman,
+https://dev.to/magi-magificient/basic-step-by-step-guide-to-setting-up-a-project-using-playwright-3l2,Selenium,
+https://dev.to/doriansabitov/successful-data-migration-from-legacy-systems-to-salesforce-3l3l,,Acceptance Testing
+https://dev.to/stack-labs/what-is-dataops-and-how-to-make-it-real-with-dataform--em4,,Integration Testing; Unit Testing
+https://dev.to/andreaslennartz/redefining-etl-data-flows-powered-by-c-part-i-1dbg,,Test-Driven Development
+https://dev.to/documatic/ai-in-software-testing-revolutionizing-quality-assurance-4fcg,Appium; Selenium,Exploratory Testing
+https://dev.to/indika_wimalasuriya/how-jiocinema-could-have-handled-32m-concurrent-users-during-ipl-final-4hgb,,Load Testing
+https://dev.to/documatic/transitioning-to-a-microservices-architecture-overcoming-obstacles-5b09,Postman,Integration Testing
+https://dev.to/shubham_kadam/nestjs-mocking-databases-for-efficient-tests-3efl,Jest,Unit Testing
+https://dev.to/bytebodger/use-cases-for-iifes-5gdg,Jest,
+https://dev.to/r0mymendez/fundamentos-de-testing-egn,Selenium,Regression Testing
+https://dev.to/documatic/a-guide-to-coding-standards-to-improve-code-quality-68n,,Integration Testing; Regression Testing; Unit Testing
+https://dev.to/documatic/simplify-your-c-code-top-5-refactoring-tools-1bo0,,Unit Testing
+https://dev.to/frosnerd/hashed-wheel-timers-5bo9,JUnit,
+https://dev.to/documatic/the-art-of-code-review-1lo4,,Unit Testing
+https://dev.to/pritesh_ranjan/java-cucumber-maven-test-automation-framework-a-comprehensive-guide-to-restful-api-testing-35lp,Cucumber; RestAssured,
+https://dev.to/lico/pluginviteimport-analysis-failed-to-resolve-import-reactjsx-dev-runtime-from-srcindextsx-does-the-file-exist-3897,Postman,
+https://dev.to/azure/how-to-use-the-azure-openai-embedding-model-to-find-the-most-relevant-documents-42lo,JUnit; TestNG,
+https://dev.to/documatic/code-reviewing-a-ruby-on-rails-application-plm,,Behavior-Driven Development
+https://dev.to/documatic/guide-to-implementing-function-as-a-service-a-deep-dive-into-serverless-computing-55gd,Postman,
+https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852,,Unit Testing
+https://dev.to/kirekov/apache-spark-hive-and-spring-boot-testing-guide-mdp,JUnit,Integration Testing
+https://dev.to/callstackengineers/a-comprehensive-guide-to-mock-service-worker-msw-1ng9,Jest,
+https://dev.to/yusadolat/10-github-repositories-that-help-you-become-a-better-devops-engineer-2ol2,,Load Testing
+https://dev.to/luizcalaca/typescript-boilerplate-test-configuration-with-mocha-chai-and-sinon-1mml,Mocha,
+https://dev.to/ainiro/do-not-trust-your-frontend-validators-4glb,Postman,Unit Testing
+https://dev.to/jonashdown/how-to-guarantee-race-conditions-when-integration-testing-25m2,,Integration Testing
+https://dev.to/jbudny/mocking-rtk-query-api-with-mock-service-worker-for-testing-react-native-apps-o3m,Jest,
+https://dev.to/documatic/send-email-in-nodejs-with-nodemailer-using-gmail-account-2gd1,,Unit Testing
+https://dev.to/renukapatil/supercharging-aspnet-60-with-odata-crud-batching-pagination-12np,Postman,
+https://dev.to/terencepan/playwright-with-cucumberjunit-5-dependency-injection-154l,Cucumber; JUnit; JUnit 5,
+https://dev.to/kipngeno7664/postman-api-195l,Postman,
+https://dev.to/valentinprgnd/custom-v-model-with-vuejs-update-3han,,Unit Testing
+https://dev.to/semaphore/10-books-every-senior-engineer-should-read-370m,,Test-Driven Development
+https://dev.to/qbentil/puppeteer-screen-recorder-client-expressjs-5259,,Unit Testing
+https://dev.to/augustae/easy-and-clean-way-to-use-fastest-validator-in-your-expressjs-app-3npp,Postman,
+https://dev.to/kamruzzaman/nodejs-express-and-mongodb-image-crud-api-and-save-on-local-computer-disk-28d7,Postman,
+https://dev.to/mahamatmans/git-hooks-robust-commit-with-husky-prettier-and-eslint-2nkk,Jest,
+https://dev.to/mannycolon/incrementally-adopting-typescript-in-a-create-react-app-project-f5c,Jest,
+https://dev.to/theplebdev/testing-in-android-how-to-run-a-test-51gk,JUnit,
+https://dev.to/canro91/how-to-create-custom-assertions-in-c-with-mstest-4831,,Unit Testing
+https://dev.to/this-is-learning/rxjs-marble-testing-2gg9,Jest,
+https://dev.to/ankit01oss/5-github-projects-to-make-you-a-better-devops-engineer-2fkl,,Load Testing
+https://dev.to/maithanhdanh/configuration-for-javascript-testing-framework-jl1,Jest,
+https://dev.to/akdevcraft/git-pre-hook-setup-pre-push-hook-for-gradle-project-example-1nn6,Cucumber,
+https://dev.to/chathurashmini/junit-5-nested-disabled-tests-2fan,JUnit; JUnit 5,
+https://dev.to/victorgarciadev/jmeter-api-tests-from-postman-collection-using-loadium-4e9o,Postman,
+https://dev.to/victoor/laravel-sail-the-best-way-to-start-developing-with-laravel-l6d,Selenium,
+https://dev.to/paulwababu/build-an-image-classification-api-using-django-rest-framework-4ned,Postman,
+https://dev.to/avantar/how-to-output-raw-sql-with-filled-parameters-in-typeorm-14l4,Jest,
+https://dev.to/pmutua/i-ve-completely-replaced-the-need-for-postman-with-this-one-extension-in-vs-code-1oa9,Postman,
+https://dev.to/jacobandrewsky/building-microservices-with-nest-js-is-that-simple-4ohb,Postman,
+https://dev.to/devrel/what-is-b2d-sector-32j8,Postman,
+https://dev.to/roxie/jwt-auth-exception-handling-in-laravel-8-45gd,Postman,
+https://dev.to/ilumin/maaaich-playwright-ekhiiyn-e2e-testing-kanetha-241m,Selenium,
+https://dev.to/elthrasher/mocking-aws-with-jest-and-typescript-199i,Jest; Mockito,Integration Testing; Unit Testing
+https://dev.to/d_ir/here-s-how-to-test-arrays-318b,,Test-Driven Development
+https://dev.to/jamenamcinteer/snippets-i-always-need-to-look-up-when-writing-tests-with-react-testing-library-2kph,Jest,
+https://dev.to/panx/50-free-awesome-certificates-to-earn-in-2021-2l7g,Selenium,
+https://dev.to/jamescryer/mocking-components-in-jest-433j,Jest,
+https://dev.to/leading-edje/hello-newman-how-to-build-a-ci-cd-pipeline-that-executes-api-tests-2h5l,JUnit; Postman,
+https://dev.to/kooin/how-to-manage-your-configuration-file-with-yaml-in-java-programmatically-298o,JUnit,
+https://dev.to/reyronald/improving-an-app-s-search-performance-by-1-000-1nah,Jest; Mocha,
+https://dev.to/ben/are-newer-developers-pushed-too-exclusively-towards-web-development-2a9h,Selenium,
+https://dev.to/reachtokish/basics-of-package-json-4354,Jest,
+https://dev.to/iyvonnebett/what-is-graph-databases-a-better-way-to-store-connected-data-46ee,,Test-Driven Development
+https://dev.to/the22mastermind/online-food-ordering-app-1-594j,Mocha,
+https://dev.to/lucasdevoliveira/configurando-jest-no-seu-projeto-com-angular-79a,Jest,
+https://dev.to/dataform/how-to-write-unit-tests-for-your-sql-queries-2hd7,,Unit Testing
+https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e,Jest,
+https://dev.to/frosnerd/testing-your-database-migrations-with-flyway-and-testcontainers-44fc,JUnit; JUnit 5,
+https://dev.to/lambdatest/top-21-selenium-automation-testing-blogs-to-look-out-in-2020-19n3,Appium; Selenium; TestNG,Integration Testing; Load Testing; Test-Driven Development
+https://dev.to/kylessg/achieving-a-perfect-100-google-lighthouse-audit-score-with-next-js-and-redux-5p0,,Unit Testing
+https://dev.to/perigk/how-to-scale-python-server-for-enterprise-purposes-1nfp,,Load Testing
+https://dev.to/xowap/10-rules-to-code-like-nasa-applied-to-interpreted-languages-40dd,,Unit Testing
+https://dev.to/pluralsight/building-a-service-to-get-a-city-name-from-a-zip-code-in-net-core-3ld5,Postman,Unit Testing
+https://dev.to/javinpaul/10-things-every-software-developer-should-know-39pe,,Unit Testing
+https://dev.to/emmabostian/what-does-your-ide-code-editor-look-like-550e/comments,Postman,
+https://dev.to/thejessleigh/different-types-of-testing-explained-1ljo,Selenium,Acceptance Testing; Integration Testing; Load Testing; Regression Testing; Smoke Testing
+https://dev.to/kayis/what-are-the-alternatives-to-unit-tests-2jii,,Integration Testing; Unit Testing
+https://dev.to/sachinkagarwal/public-cloud-object-store-performance-is-very-unequal-across-aws-s3-google-cloud-storage-and-azure-blob-storage-13do,,Load Testing
+https://dev.to/willvelida/building-my-first-alexa-skill--rugby-facts-doc,,Unit Testing
+https://dev.to/lpasqualis/19-types-of-developers-explained-1lj,Selenium,
+https://www.linkedin.com/pulse/big-data-testing-complete-guide-testrigor-j9gle,Cucumber,Integration Testing; Load Testing
+https://www.linkedin.com/jobs/view/data-quality-analyst-at-owens-minor-4104220840,,Acceptance Testing
+https://www.linkedin.com/posts/curiousjames_what-is-data-coverage-and-why-does-it-matter-activity-7241818162709606400-MXCZ,Selenium,Regression Testing
+https://www.linkedin.com/posts/maheshma_testing-datalake-automationtesting-activity-7270972878332788736-nlPe,,Load Testing
+https://www.linkedin.com/advice/3/why-test-data-vital-successful-execution-skills-software-testing-ccyyc,Cucumber; Postman; Selenium,Acceptance Testing; Regression Testing
+https://www.linkedin.com/posts/pedramnavid_unit-tests-with-dagster-and-dlt-activity-7260166452693860352-LVV6,,Unit Testing
+https://www.linkedin.com/posts/callrahul_azuresql-databasedeployment-automation-activity-7199515103862407168-fHJX,,Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/posts/malcolmchisholm_datagovernance-datamanagement-sdlc-activity-7244299614558855168-VHcy,,Integration Testing
+https://www.linkedin.com/pulse/roles-responsibilities-test-data-management-tdm-oscar-herrera-9vtoe,,Acceptance Testing; Regression Testing
+https://www.linkedin.com/pulse/what-test-data-management-comprehensive-guide-bertha-white-lgwue,Selenium,Exploratory Testing; Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/advice/1/what-most-common-etl-testing-scenarios-6kuje,,Integration Testing
+https://www.linkedin.com/advice/3/what-techniques-can-you-use-ensure-testing-process-dynxf,Appium; Selenium,Acceptance Testing; Exploratory Testing; Regression Testing
+https://www.linkedin.com/advice/3/how-can-you-ensure-data-quality-when-using-third-party-mfcqe,Postman,Integration Testing
+https://www.linkedin.com/advice/3/how-can-you-identify-data-consistency-issues-9lnhf,Cucumber; Selenium; TestNG,Acceptance Testing
+https://www.linkedin.com/advice/0/what-tools-can-you-use-validate-data-completeness-kl0de,Selenium,Regression Testing
+https://www.linkedin.com/pulse/10-popular-software-testing-trends-2024-devxhubcom-lzwoc,,Behavior-Driven Development; Exploratory Testing; Regression Testing; Test-Driven Development
+https://www.linkedin.com/pulse/testing-data-pipelines-comprehensive-guide-amit-khullar-g8jrc,,Integration Testing; Load Testing; Unit Testing
+https://www.linkedin.com/advice/0/how-can-you-test-etl-processes-multiple-sources-egfje,,Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/pulse/automated-testing-enhancing-reliability-mlops-yoseph-reuveni-dhagf,,Integration Testing; Regression Testing
+https://www.linkedin.com/pulse/testing-strategies-apache-spark-applications-ensuring-reliability-npvxf,JUnit,Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/advice/3/what-most-effective-tools-techniques-improving-your-jndzc,Selenium,
+https://www.linkedin.com/advice/0/how-can-you-effectively-test-data-completeness-rhc4e,Selenium,
+https://www.linkedin.com/advice/3/what-best-etl-testing-validation-practices-skills-data-engineering-vjyic,,Integration Testing; Load Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/advice/3/what-key-steps-test-validate-your-star-snowflake-dpxme,,Integration Testing; Regression Testing
+https://www.linkedin.com/pulse/power-test-data-management-tdm-essential-software-quality-herrera-nzwue,,Integration Testing; Regression Testing
+https://www.linkedin.com/pulse/ai-software-testing-life-cycle-step-by-step-guide-blogo-ai-8bxqf,,Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/advice/3/what-best-ways-validate-data-processing-pipelines-skekf,,Acceptance Testing; Integration Testing; Unit Testing
+https://www.linkedin.com/advice/1/how-do-you-use-unit-testing-integration-big-data-projects,Cucumber; JUnit; Selenium; TestNG,Acceptance Testing; Behavior-Driven Development; Integration Testing; Load Testing; Regression Testing; Smoke Testing; Test-Driven Development; Unit Testing
+https://www.linkedin.com/advice/0/how-can-you-identify-resolve-data-quality-issues-1e,,Regression Testing
+https://www.linkedin.com/pulse/how-improve-data-quality-effective-governance-analytics8,Cucumber,Behavior-Driven Development
+https://www.linkedin.com/advice/3/what-methods-can-you-use-ensure-data-quality-migration-3gl0f,Postman,
+https://www.linkedin.com/advice/3/how-do-you-test-validate-hive-queries-data,TestNG,
+https://www.linkedin.com/advice/0/how-do-you-ensure-data-quality-integrity-3c,JUnit; TestNG,Regression Testing
+https://www.linkedin.com/advice/3/how-do-data-quality-issues-impact-your-analysis,Appium; Cucumber; Selenium; TestNG,
+https://www.linkedin.com/advice/0/how-do-you-automate-data-validation-quality-checks,Postman; Selenium,
+https://www.linkedin.com/advice/0/how-do-you-validate-data-quality-after-transformation,,Acceptance Testing; Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/advice/3/what-most-effective-ways-identify-data-quality-issues-ziytc,Selenium,
+https://www.linkedin.com/advice/0/how-do-you-measure-quality-your-master-data-skills-data-integration,,Integration Testing
+https://www.linkedin.com/advice/3/how-do-you-ensure-quality-completeness,,Integration Testing
+https://www.linkedin.com/pulse/best-practices-data-testing-event-driven-streaming-manas-jain,,Integration Testing; Unit Testing
+https://www.linkedin.com/advice/3/how-can-you-ensure-data-quality-python-scripts,,Unit Testing
+https://www.linkedin.com/advice/0/how-do-you-handle-data-volume-complexity-integration,,Integration Testing
+https://www.linkedin.com/advice/3/what-methods-can-you-use-test-unstructured-data-qk5tc,,Integration Testing; Unit Testing
+https://www.linkedin.com/advice/1/how-do-you-leverage-big-data-frameworks-tools-debugging,JUnit; Selenium,Integration Testing; Unit Testing
+https://www.linkedin.com/advice/3/what-best-etl-testing-methods-data-enrichment-on2xc,,Acceptance Testing; Integration Testing; Load Testing; Regression Testing
+https://www.linkedin.com/pulse/unlocking-insights-best-practices-frameworks-data-quality-solanki,Appium; Selenium,
+https://www.linkedin.com/advice/3/what-main-challenges-creating-maintaining,,Acceptance Testing
+https://www.linkedin.com/advice/0/how-do-you-ensure-biometric-data-quality-accuracy,,Integration Testing
+https://www.linkedin.com/advice/1/how-can-you-ensure-data-quality-when-using-ssis-twrqf,,Unit Testing
+https://www.linkedin.com/advice/0/what-most-effective-ways-test-dimensional-model,,Acceptance Testing; Load Testing; Regression Testing
+https://www.linkedin.com/advice/1/what-most-important-testing-strategies-data-governance,,Integration Testing; Load Testing
+https://www.linkedin.com/advice/0/how-do-you-test-validate-dimension,,Acceptance Testing
+https://www.linkedin.com/advice/0/what-most-common-etl-testing-challenges-how,,Integration Testing
+https://www.linkedin.com/advice/0/how-can-you-test-performance-etl-processes-large-eyref,,Load Testing
+https://www.linkedin.com/advice/1/what-key-practices-testing-ai-code-skills-artificial-intelligence-czzae,,Exploratory Testing; Integration Testing; Unit Testing
+https://www.linkedin.com/advice/0/how-do-you-create-data-quality-dashboard-skills-data-quality,,Acceptance Testing; Regression Testing
+https://www.linkedin.com/advice/0/what-most-important-principles-consider-when-exzfe,,Regression Testing
+https://www.linkedin.com/advice/1/how-can-you-test-etl-processes-incremental-data-afolc,,Integration Testing; Regression Testing; Unit Testing
+https://www.linkedin.com/advice/1/what-best-practices-data-cleaning-quality-assurance,,Regression Testing; Unit Testing
+https://www.linkedin.com/advice/1/what-best-way-perform-regression-testing-data-r6q9e,,Integration Testing; Regression Testing
+https://www.linkedin.com/pulse/big-data-testing-qa-touch,Appium; Selenium,Unit Testing
+https://www.linkedin.com/pulse/data-quality-specialist-opportunity-marine-phellion,,Acceptance Testing
+https://www.linkedin.com/posts/kevinzenghu_data-dataengineering-dataobservability-activity-6968938872470732800-QnCF,,Regression Testing; Unit Testing
+https://www.linkedin.com/posts/pawel-huryn_if-it-costs-100-to-fix-a-bug-in-unit-tests-activity-6972930195552890882-DKwJ,,Unit Testing
+https://www.linkedin.com/pulse/2022-technology-landscape-democratize-data-uttamchandani-ph-d-,,Acceptance Testing
+https://www.linkedin.com/pulse/etl-testing-ragini-trivedi,,Acceptance Testing; Integration Testing
+https://www.linkedin.com/pulse/introduction-etl-testing-overview-process-role-types-data-thareja,,Acceptance Testing; Exploratory Testing; Integration Testing; Unit Testing
+https://www.linkedin.com/pulse/simple-guide-selenium-software-testing-calidad-infotech,Cucumber; JUnit; Selenium; TestNG,
+https://www.linkedin.com/pulse/why-does-your-video-game-need-intelligent-quality-services-goswami?trk=pulse-article,,Load Testing
+https://www.linkedin.com/pulse/practitioner-views-validating-modeling-data-manoj-malhotra-,,Acceptance Testing
+https://www.linkedin.com/pulse/tidy-production-pandas-hamilton-stefan-krawczyk,,Integration Testing; Unit Testing
+https://www.linkedin.com/pulse/capacity-governance-hybrid-cloud-multi-tenant-big-data-amit-thakur,,Integration Testing
+https://www.linkedin.com/pulse/software-testing-integral-step-your-,,Acceptance Testing; Integration Testing; Load Testing; Regression Testing; Smoke Testing; Unit Testing
+https://www.linkedin.com/pulse/unit-testing-data-validation-microservices-production-carlos-lara,,Integration Testing; Test-Driven Development; Unit Testing
+https://www.linkedin.com/pulse/etl-testing-anutshell-mohit-mair,,Acceptance Testing; Load Testing
+https://www.linkedin.com/pulse/what-application-lifecycle-management-alm-mudasir-wani,,Acceptance Testing
+https://www.linkedin.com/posts/hafizmalik_cybersecurity-cyber-security-activity-6795236163864072192-CcS9,,Integration Testing
+https://www.linkedin.com/pulse/how-ai-ml-can-help-test-automation-ashish-parmar,Appium; Cucumber; Selenium,Regression Testing
+https://www.linkedin.com/products/tricentis-qtest/,Selenium,Load Testing
+https://www.linkedin.com/pulse/etl-testing-smriti-saini,,Acceptance Testing; Integration Testing
+https://www.linkedin.com/pulse/running-test-automation-project-docker-container-nitin-goyal,JUnit; TestNG,
+https://www.linkedin.com/pulse/request-logging-rest-assured-nitin-goyal,Cucumber; Postman,
+https://www.linkedin.com/pulse/slack-new-architecture-abhishek-choudhary,,Unit Testing
+https://www.linkedin.com/pulse/software-testing-vs-machine-learning-er-hock-chiye,Cucumber,
+https://www.linkedin.com/pulse/challenges-graph-databases-age-aiml-big-data-while-software-ballan,,Acceptance Testing
+https://www.linkedin.com/pulse/how-scope-out-dataset-from-scratch-enterprise-ml-carlos-lara,,Test-Driven Development; Unit Testing
+https://www.linkedin.com/learning/javascript-test-driven-development-es6,Mocha,Integration Testing; Test-Driven Development; Unit Testing
+https://www.linkedin.com/business/talent/blog/talent-acquisition/assessment-tools-that-will-help-you-hire,Mocha,
+https://www.linkedin.com/pulse/all-you-need-know-iot-internet-things-adusumalli-venkat-,,Load Testing
+https://www.linkedin.com/pulse/managing-json-payload-postputpatch-requests-nitin-goyal,TestNG,
+https://www.linkedin.com/jobs/citibank-qa-jobs,Cucumber; Selenium,
+https://www.linkedin.com/jobs/remote-test-analyst-jobs,Selenium,
+https://www.linkedin.com/pulse/test-pyramid-explained-manmeet-singh,Selenium,
+https://www.linkedin.com/pulse/unit-testing-apache-spark-applications-scala-python-choudhary,,Unit Testing
+https://www.linkedin.com/pulse/unit-testing-spark-spring-boot-applications-neeraj-malhotra,JUnit,Unit Testing
+https://www.linkedin.com/pulse/benefits-challenges-using-microservices-big-data-guy-derosa,Selenium,Integration Testing
+https://www.linkedin.com/pulse/apache-spark-big-data-cache-something-nice-know-abhishek-choudhary,,Unit Testing
+https://www.linkedin.com/pulse/all-you-need-know-serenity-bdd-step-libraries-john-ferguson-smart,Appium; Cucumber; Selenium,
+https://www.linkedin.com/pulse/traits-great-qa-manager-bill-tepper,,Regression Testing; Unit Testing
+https://www.linkedin.com/pulse/jenkins-docker-pipeline-pattern-atdd-cucumber-pradeep-macharla,Cucumber; Selenium,
+https://www.linkedin.com/jobs/oracle-qa-engineer-jobs,,Acceptance Testing
+https://www.linkedin.com/pulse/rest-api-testing-tools-postman-fiddler-sarabjit-singh-dhamija,Postman,Integration Testing
+https://www.linkedin.com/pulse/tdd-vs-atdd-bdd-vahid-farahmandian,Cucumber,Behavior-Driven Development; Test-Driven Development
+https://www.linkedin.com/pulse/manual-tests-automated-scripts-traceability-ali-khalid,Cucumber,
+https://www.linkedin.com/pulse/apache-airflow-you-bored-oozie-its-style-abhishek-choudhary,,Unit Testing
+https://www.linkedin.com/jobs/quality-assurance-analyst-jobs-jacksonville-fl,Selenium,
+https://www.linkedin.com/pulse/combinational-test-technique-orthogonal-array-testing-yerraguntla,,Integration Testing
+https://www.linkedin.com/jobs/citi-quality-assurance-jobs,Cucumber; Selenium,
+https://www.linkedin.com/pulse/testing-true-production-test-driven-development-maksim-sundukov,,Test-Driven Development
+https://www.linkedin.com/jobs/data-warehouse-testing-jobs,Postman,
+https://medium.com/dbsql-sme-engineering/how-to-build-an-end-to-end-testing-pipeline-with-dbt-on-databricks-cb6e179e646c,,Unit Testing
+https://medium.com/@wyaddow/maintain-data-quality-with-data-refactoring-tests-f46580d0b43e,,Regression Testing
+https://medium.com/@maroofashraf987/a-complete-guide-to-testing-your-data-pipelines-for-optimal-performance-e9eef1874d00,,Unit Testing
+https://medium.com/@datainsights17/a-complete-guide-to-data-engineering-testing-with-python-best-practices-for-2024-bd0d9be2d9ca,,Integration Testing; Regression Testing; Unit Testing
+https://sada-engineering.medium.com/bridging-the-gap-validating-data-across-data-warehouses-with-data-validation-testing-5cd9e68e73bf,,Acceptance Testing
+https://medium.com/@wyaddow/data-pipeline-testing-tools-to-fit-the-needs-c0ffb1c09a52,JUnit,Integration Testing
+https://lexaneon.medium.com/monitoring-data-quality-with-amazon-deequ-25db142583cf,,Unit Testing
+https://medium.com/@wyaddow/planning-your-tests-for-change-data-capture-cdc-e80c462330e1,,Load Testing
+https://medium.com/@neoromantic/testing-and-observability-in-dbt-project-meta-analysis-47f830f3a2cc,,Unit Testing
+https://medium.com/@wyaddow/maintaining-a-viable-monitoring-system-for-data-observability-b510152ecfa8,,Regression Testing
+https://medium.com/data-engineer-things/testing-too-difficult-automate-your-integration-testing-d83b2afbe8a5,Postman,Integration Testing
+https://medium.com/@aftab4092/designing-an-effective-etl-pipeline-a-comprehensive-guide-290056e5099b,,Acceptance Testing; Integration Testing; Regression Testing
+https://medium.com/@amitkhullaar/testing-data-pipelines-a-comprehensive-guide-b095e31c2d49,,Integration Testing; Load Testing; Unit Testing
+https://medium.com/israeli-tech-radar/ensuring-data-integrity-with-dbt-testing-d8e3e1249d64,,Unit Testing
+https://medium.com/womenintechnology/unit-tests-for-better-data-quality-0c19014a948c,,Integration Testing; Unit Testing
+https://medium.com/data-engineer-things/mastering-data-quality-10-essential-checks-with-real-world-examples-and-7-best-practices-fa303f2ae42b,,Regression Testing
+https://medium.com/data-quality-beyond/beginners-guide-to-data-testing-e2258a910c22,,Acceptance Testing; Integration Testing; Unit Testing
+https://medium.com/towards-data-science/forget-about-the-new-data-trends-in-2023-d2756add3317,,Load Testing; Regression Testing; Unit Testing
+https://medium.com/@hugolu87/do-data-observability-tools-encourage-worst-practice-f08ea83dc85f,,Load Testing; Test-Driven Development
+https://medium.com/@darryl.jackson/mastering-data-quality-a-deep-dive-into-testing-dbts-python-models-d1c18ac280ff,,Acceptance Testing; Unit Testing
+https://medium.com/@wyaddow/ongoing-tests-of-data-observability-monitors-are-essential-d2c21e35957f,,Regression Testing
+https://medium.com/data-science/improving-the-code-quality-of-your-dbt-models-with-unit-tests-and-tdd-203ed0be791e,,Test-Driven Development; Unit Testing
+https://medium.com/data-science/a-simple-yet-effective-approach-to-implementing-unit-tests-for-dbt-models-da2583ea8e79,,Unit Testing
+https://medium.com/towards-data-science/how-to-scale-your-data-pipelines-and-data-products-with-dbt-and-contract-testing-10c92ea9a443,,Unit Testing
+https://medium.com/@kalpanashashi/etl-testing-api-testing-and-agile-methodology-a-powerful-trifecta-for-data-quality-c2630a50fc2e,,Load Testing
+https://medium.com/orchestras-data-release-pipeline-blog/a-new-paradigm-for-data-continuous-data-integration-and-delivery-miniseries-part-5-a3338b3ffd03,,Acceptance Testing
+https://medium.com/@lenaztyson/qaops-and-its-future-trends-5b484226a735,,Regression Testing
+https://medium.com/@raj.busint/six-best-practices-for-building-robust-data-pipelines-4e5b18741378,,Integration Testing; Unit Testing
+https://fithis2001.medium.com/exploring-the-imdb-dataset-with-dbt-11cd02c025aa,,Unit Testing
+https://medium.com/orchestras-data-release-pipeline-blog/principles-of-effective-data-delivery-how-ci-cd-should-look-for-data-teams-miniseries-part-3-396deb5af97a,,Test-Driven Development
+https://medium.com/@DISH_DevEx/testing-as-a-service-test-not-only-to-validate-but-to-learn-36b2708dfc46,Postman,
+https://kovidrathee.medium.com/data-quality-and-testing-frameworks-316c09436ab2,Cucumber,Unit Testing
+https://medium.com/@matt_weingarten/data-quality-in-batch-processing-aa9b27e9b483,,Unit Testing
+https://medium.com/better-programming/data-quality-e1a8311ce1a2,,Test-Driven Development
+https://dilushakumarage.medium.com/emerging-trends-technologies-in-software-testing-9adce39c328,,Regression Testing; Smoke Testing
+https://medium.com/data-science-at-microsoft/testing-practices-for-data-science-applications-using-python-71c271cd8b5e,JUnit,Acceptance Testing; Integration Testing; Unit Testing
+https://medium.com/@techpen/tesmaximizing-the-benefits-of-etl-testing-best-practices-and-tips-988ce079bd1a,,Load Testing; Test-Driven Development
+https://medium.com/@matt_weingarten/data-quality-for-dummies-6d592d6e2b13,,Integration Testing
+https://medium.com/towards-data-science/how-to-do-unit-testing-in-dbt-cb5fb660fbd8,,Unit Testing
+https://medium.com/@TianchenW/unit-test-sql-using-dbt-1b8aa214365e,,Unit Testing
+https://medium.com/astrafy/dbt-at-scale-on-google-cloud-part-2-c2e7c48a7f3d,,Unit Testing
+https://medium.com/the-bounce-io/the-issues-of-tracking-qa-solutions-and-what-a-better-one-could-look-like-a883ed527b1,Mocha; Selenium,
+https://medium.com/towards-data-science/introducing-fugue-reducing-pyspark-developer-friction-a702230455de,,Test-Driven Development
+https://patrickcuba.medium.com/the-data-vault-must-flow-aeeb553350bd,,Regression Testing
+https://medium.com/@sergey.kotlov/unit-testing-of-spark-applications-cf0162a5cb3c,,Unit Testing
+https://ckaestne.medium.com/automating-the-ml-pipeline-eb0f570b4fc9,,Integration Testing; Unit Testing
+https://medium.com/hashmapinc/performing-data-quality-checks-in-snowflake-part-1-a3253c982460,,Unit Testing
+https://medium.com/weareservian/the-test-pyramid-and-data-engineering-with-julia-e4678c3f8dff,,Unit Testing
+https://medium.com/data-ops/the-dataops-vendor-landscape-2021-2f30afd5bd67,,Unit Testing
+https://ckaestne.medium.com/data-quality-for-building-production-ml-systems-2e0cc7e6113f,Cucumber,
+https://ajdoss.medium.com/making-a-simple-data-pipeline-part-3-testing-etl-e9399f746b49,,Unit Testing
+https://ekremkurt1907.medium.com/the-future-of-software-testing-67d8c82c0ecd,Selenium,Exploratory Testing; Integration Testing; Load Testing
+https://medium.com/codex/pythonic-data-pipeline-testing-on-azure-databricks-2d27d3b5d587,,Unit Testing
+https://betsy-varghese.medium.com/a-macro-ful-way-to-test-incremental-models-and-snapshots-2a8187919885,,Unit Testing
+https://medium.com/codex/5-steps-to-implementing-a-successful-dataops-practice-f553effd7367,,Unit Testing
+https://medium.com/analytics-vidhya/etl-testing-in-a-nutshell-f1967115a996,,Acceptance Testing; Load Testing
+https://medium.com/@NickHystax/%D0%BDow-to-create-a-reliable-test-environment-to-optimize-costs-on-an-r-d-process-660b7468d376,,Integration Testing; Unit Testing
+https://medium.com/exa-technical-blog/a-quick-start-to-load-test-with-k6-7137a0b52ca1,Selenium,Load Testing
+https://medium.com/data-science/the-missing-piece-of-data-discovery-and-observability-platforms-open-standard-for-metadata-37dac2d0503,,Unit Testing
+https://medium.com/analytics-and-data/leveraging-dbt-as-a-data-modeling-tool-b3caf78f4a3a,,Unit Testing
+https://medium.com/becoming-human/integrating-data-quality-management-into-continuous-integration-and-continuous-delivery-ci-cd-9e12beacc3fe,JUnit,Unit Testing
+https://medium.com/memory-leak/data-quality-a-primer-f6a945915511,,Regression Testing
+https://medium.com/analytics-vidhya/data-lake-and-quality-assurance-2dd5de3a0e67,,Smoke Testing
+https://medium.com/weareservian/modern-data-engineering-testing-part-2-the-keys-to-unlock-your-test-suite-a3337b7b1278,JUnit,
+https://medium.com/towards-data-science/load-testing-of-a-real-time-pipeline-d32475163285,,Load Testing
+https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064,,Integration Testing; Load Testing
+https://medium.com/@v2solutions/top-10-software-testing-trends-you-must-know-to-meet-ever-changing-business-dynamics-v2solutions-4b9fe8d26355,Selenium,Load Testing
+https://medium.com/acing-ai/qa-in-data-science-397476c09910,,Integration Testing
+https://medium.com/bigeye/dependency-injection-101-what-and-why-7bd11d53c528,Mockito,Unit Testing
+https://pratikbarjatya.medium.com/how-i-transformed-from-software-quality-engineering-to-data-science-world-bb13ca1c3122,,Unit Testing
+https://mageswaran1989.medium.com/big-data-play-ground-for-engineers-hive-and-metastore-15a977169eb7,,Unit Testing
+https://medium.com/swlh/productionizing-a-spark-job-with-databricks-notebook-dd950a242c7d,,Unit Testing
+https://medium.com/towards-data-science/why-learning-java-is-a-starting-point-for-big-data-developers-of-the-future-9a9b6d240dea,,Unit Testing
+https://anton-bakalets.medium.com/flink-job-unit-testing-df4f618d07a6,JUnit,Unit Testing
+https://medium.com/@datalackey/unit-integration-testing-kafka-and-spark-f52eabcc579,JUnit; TestNG,Integration Testing; Unit Testing
+https://medium.com/towards-data-science/ml-infrastructure-tools-for-production-1b1871eecafb,,Integration Testing; Unit Testing
+https://medium.com/towards-data-science/statistical-typing-182d2d795ba5,,Unit Testing
+https://medium.com/expedia-group-tech/mutant-swarm-2a3e7fd36efe,,Unit Testing
+https://medium.com/engineered-publicis-sapient/scalable-qe-automation-framework-9e442f954ce,Cucumber; JUnit,
+https://medium.com/ppl-c6-big-data/whats-wrong-with-my-simple-react-docker-image-4e81584dac1b,Jest,
+https://medium.com/quick-code/test-automation-analytics-using-cube-js-e3ee0fa84981,Mocha; RestAssured; Selenium; TestNG,
+https://medium.com/@swethareddy2795/what-is-cloud-testing-cloud-testing-tools-and-types-w3softech-582e07fdaa33,,Load Testing
+https://medium.com/thinkspecial/haigopi-apache-unomi-3848ac45469f,Postman,
+https://medium.com/expedia-group-tech/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be,JUnit,Unit Testing
+https://medium.com/jobpal-dev/plausible-negative-examples-for-better-multi-class-classifier-evaluation-d8e8cb2422db,,Integration Testing
+https://medium.com/@swethareddy2795/top-10-automation-testing-tools-of-2019-w3softech-a58a7ca74808,Selenium,Load Testing
+https://medium.com/@patrick.winters/integration-testing-and-microservice-architectures-7a0067a872b2,JUnit,Integration Testing
+https://iryna-suprun.medium.com/go-with-golang-e863cf874e0e,,Unit Testing
+https://medium.com/zero-to/zero-to-pig-unit-testing-dbc9c16fda4e,JUnit,Unit Testing
+https://arthurfnsc.medium.com/postman-apis-testing-as-if-i-were-a-child-part-i-analogies-1ebba0d3aad4,Postman,
+https://medium.com/@josh.temple/automated-testing-in-the-modern-data-warehouse-d5a251a866af,,Unit Testing
+https://yu-ishikawa.medium.com/apache-airflow-as-a-data-quality-checker-416ca7f5a3ad,,Unit Testing
+https://maximebeauchemin.medium.com/the-downfall-of-the-data-engineer-5bfb701e5d6b,,Integration Testing
+https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b,,Integration Testing
+https://briananderson2209.medium.com/best-automation-testing-tools-for-2018-top-10-reviews-8a4a19f664d2,Appium; Cucumber; JUnit; Postman; Selenium,Exploratory Testing; Regression Testing
+https://medium.com/a3logics-i-pvt-ltd/common-challenges-qa-teams-face-in-agile-testing-and-tips-to-overcome-them-c441e32d2b1b,,Integration Testing
+https://medium.com/netanelbasal/create-and-test-decorators-in-javascript-85e8d5cf879c,Jest,
+https://guillaumejacquart.medium.com/experience-on-working-with-asp-net-core-and-nodejs-5e6c6351fc1f,,Unit Testing
+https://medium.com/critigenopensource/mocha-unit-testing-pattern-test-suite-setup-code-for-file-separated-test-e339a550dbf6,Mocha,Unit Testing
+https://medium.com/@johndavidsimmons/testing-adobe-analytics-with-python-368752a39cc2,Selenium,
+https://medium.com/@rhwolniewicz/building-a-rest-service-with-kotlin-spring-boot-mongodb-and-junit-14d10faa594b,JUnit; Postman,Test-Driven Development; Unit Testing
+https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7,Cucumber,
+https://medium.com/nextdoor-engineering/unit-testing-apache-spark-with-py-test-3b8970dc013b,,Unit Testing
+https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7,,Test-Driven Development
+https://stackoverflow.com/questions/78925465/find-rows-where-pandas-dataframe-column-which-is-a-paragraph-or-list-contains,,Integration Testing
+https://stackoverflow.com/questions/78784204/fetching-twitter-with-selenium-using-safari-issue-search-box,Selenium,
+https://stackoverflow.com/questions/76637645/big-data-returns-cors-error-typeerror-failed-to-fetch-not-consuming-the-api,Postman,
+https://stackoverflow.com/questions/75960126/net-base-exception-constructor-is-overriding-my-message-how-do-i-stop-it,JUnit,
+https://stackoverflow.com/questions/71713859/jsonerror-unexpected-token-at-11-doctype-html-when-making-a-post-requ,Postman,
+https://stackoverflow.com/questions/71391081/java-pkix-path-building-failed-sun-security-provider-certpath-suncertpathbuilde,Postman,
+https://stackoverflow.com/questions/68687676/instantiating-huge-data-and-sharing-them-with-all-tests-before-beforeall,JUnit; TestNG,
+https://stackoverflow.com/questions/67378637/how-do-i-report-the-results-for-a-test-that-matches-ids-across-different-source,,Unit Testing
+https://stackoverflow.com/questions/69446766/unit-testing-apache-spark-application-with-intellij-results-in-error,,Unit Testing
+https://stackoverflow.com/questions/65480189/analyze-byte-stream-into-big-object,JUnit,
+https://stackoverflow.com/questions/65215835/how-to-generate-big-data-volume-to-perform-load-test-using-jmeter,,Load Testing
+https://stackoverflow.com/questions/63626878/best-python-looping-system-for-merging-pandas-dataframe-rows-for-export,Selenium,
+https://stackoverflow.com/questions/62952768/attach-debugger-to-neo4j-procedure-jar,,Unit Testing
+https://stackoverflow.com/questions/63242862/can-we-do-big-data-load-testing-by-using-java-request-sampler,,Load Testing
+https://stackoverflow.com/questions/63195544/a-data-monitoring-infrastructure-to-ensure-integrity-of-data,,Unit Testing
+https://stackoverflow.com/questions/62638491/jmeter-hbase-testing-how-to-preform-the-load-testing-for-big-data,,Load Testing
+https://stackoverflow.com/questions/62548590/what-functional-performance-testing-approach-should-i-take-during-data-ingestion,,Load Testing
+https://stackoverflow.com/questions/60030608/how-to-create-sparksession-using-java-8-and-spark-2-3-0,JUnit,
+https://stackoverflow.com/questions/60494385/how-to-use-the-scenario-as-prerequisite-of-another-scenario,Selenium,
+https://stackoverflow.com/questions/55755376/how-to-test-my-etl-pipeline-entirely-on-amazon-athena-given-that-there-are-no-l,,Unit Testing
+https://stackoverflow.com/questions/55184041/testing-response-time,,Load Testing
+https://stackoverflow.com/questions/54302973/can-some-one-please-suggest-any-open-source-tool-for-big-data-automation-testing,,Load Testing
+https://stackoverflow.com/questions/49655984/azure-data-factory-failed-while-copying-big-data-files,Postman,
+https://stackoverflow.com/questions/53911050/how-to-write-cucumber-json-report-in-hdfs,Cucumber; JUnit,
+https://stackoverflow.com/questions/53402067/how-to-correctly-scrape-a-javascript-based-site,Selenium,
+https://stackoverflow.com/questions/44502825/performance-testing-on-big-data,,Load Testing
+https://stackoverflow.com/questions/47681214/python-unittest-for-big-arrays,,Unit Testing
+https://stackoverflow.com/questions/47382667/symfony-3-3-memcached-performance-issue,Postman,
+https://stackoverflow.com/questions/46723555/out-of-memory-using-volley-in-kotlin,Postman,
+https://stackoverflow.com/questions/46650466/unable-to-connect-to-hive-from-eclipse,JUnit,
+https://stackoverflow.com/questions/41927690/selenium-getting-correct-count-from-a-page,JUnit; Selenium,
+https://stackoverflow.com/questions/40635522/big-data-testing-approch,Postman,Integration Testing
+https://stackoverflow.com/questions/38942801/static-method-and-constructor-interception-mocking-in-scala-spark,,Unit Testing
+https://stackoverflow.com/questions/38534940/junit-unit-testing-for-big-data-natural-language-processing,JUnit,Integration Testing; Unit Testing
+https://stackoverflow.com/questions/37097095/debugging-scheduling-modules-in-hadoop-and-storm,,Unit Testing
+https://stackoverflow.com/questions/40934345/rubocop-25-line-block-size-and-rspec-tests,Cucumber,
+https://stackoverflow.com/questions/31275867/can-bdd-work-for-big-data-etl-testing,,Unit Testing
+https://stackoverflow.com/questions/34532120/big-data-integration-testing-best-practice,,Integration Testing
+https://stackoverflow.com/questions/33099641/tool-for-load-testing-various-sql-alternatives-in-big-data,,Load Testing; Unit Testing
+https://stackoverflow.com/questions/31481207/running-junit-tests-in-maven-ignores-programmatic-log4j2-setup,JUnit,
+https://stackoverflow.com/questions/31043364/unit-testing-runtime-objects,JUnit; Mockito,Unit Testing
+https://sqa.stackexchange.com/questions/36507/need-help-with-xml-testing-2,Cucumber; Selenium,
+https://sqa.stackexchange.com/questions/25248/efficient-way-to-test-data-quality-of-database-through-java,Cucumber; Selenium,
