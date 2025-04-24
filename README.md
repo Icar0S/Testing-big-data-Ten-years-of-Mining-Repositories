@@ -29,6 +29,8 @@ The data was processed and filtered to ensure high quality, focusing on content 
 ---
 
 ## 📁 Repository Structure
+```bash
+.
 ├── data/                # Cleaned and structured datasets
 ├── documents/           # Protocols and methodology descriptions
 ├── images/              # Charts, graphs, and figures
@@ -36,7 +38,7 @@ The data was processed and filtered to ensure high quality, focusing on content 
 ├── topic modeling/      # LDA topic modeling files and visualization
 ├── LICENSE              # Licensing information
 └── README.md            # Project overview
-
+```
 ---
 
 ## 📊 Dataset
