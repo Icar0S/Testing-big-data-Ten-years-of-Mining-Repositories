@@ -58,9 +58,10 @@ This folder contains visualizations and charts related to the analysis of the da
 - [**Top-Testing-Tools.png**](images/Frequency-Tools.png): A bar chart showing the most frequently mentioned testing tools, such as Selenium, JUnit, Postman, etc.
 - [**Top-Testing-Methods.png**](images/Frequency-Methods.png):  A bar chart depicting the most commonly mentioned testing methods, including Unit Testing, Regression Testing, and Load Testing.
 - [**Data-Source-Distribution.png**](images/Posts-Source.png):  A bar chart showing the distribution of data collected from each source (e.g., StackExchange, LinkedIn, Medium, Dev.to).
-- ![Captura de tela 2025-04-23 182344](https://github.com/user-attachments/assets/c6794d03-7654-4d9e-a357-0f008e1e1a5d): A graph showing the trends in Big Data testing practices over time (2014-2024).
-- ![Captura de tela 2025-04-23 183051](https://github.com/user-attachments/assets/da808d93-40dc-4a09-80f7-bdb90837e6fa)
-![Captura de tela 2025-04-23 110158](https://github.com/user-attachments/assets/17eb9ced-13c4-4c70-9fb5-e698f6f84af0)
+- The graphs showing the trends in Big Data testing practices over time (2014-2024).
+- [image](https://github.com/user-attachments/assets/9aa2b5a1-f5d9-4458-b7e3-f31cbaa0a38e) : Topic modeling visualization of mined posts using LDAvis
+
+- ![Captura de tela 2025-04-23 183051](https://github.com/user-attachments/assets/da808d93-40dc-4a09-80f7-bdb90837e6fa): Topic modeling visualization of the white literature corpus using LDAvis
 
 
 ---
