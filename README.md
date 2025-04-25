@@ -1,87 +1,105 @@
-# Testing-big-data-Ten-years-of-Mining-Repositories
+# 🧪 Ten Years of Big Data Testing: Mining Platforms Used by Developers
 All scripts and data related to this research will be made publicly available.
 ## Mining Testing Tools and Practices for Big Data Systems
 
-## Overview and Goal
-This study aims to systematically mine data from digital content platforms like StackExchange, LinkedIn, Medium, Dev.to, and other relevant sources to collect information regarding the tools and practices used in testing Big Data systems. The study focuses on identifying widely used testing tools (e.g., Selenium, JUnit), testing methods (e.g., Unit Testing, Regression Testing, Load Testing), and strategies adopted by professionals working in the Big Data field. The data is collected from public discussions and articles from the past decade (2014-2024), providing valuable insights into the current landscape of testing practices in Big Data environments.
+## 📌 Overview and Goal
+This research investigates the evolution of software testing tools and practices in Big Data systems by systematically mining gray literature from Stack Overflow, Medium, LinkedIn, and Dev.to (2015–2024). The goal is to extract and analyze industry-adopted testing frameworks (e.g., Selenium, JUnit), testing types (e.g., Unit Testing, Load Testing), and strategies employed in practical environments.
 
-The contributions of this study include identifying trends, advancements, gaps, and challenges in Big Data testing practices. All collected data is organized into a structured dataset for further analysis, enabling insights into the tools and methods most commonly adopted in the industry.
-
-## Research Questions
-1. **What tools are widely used for testing Big Data systems?**
-2. **What methods of testing are applied in Big Data systems?**
+The study combines automated repository mining with a comparative analysis against systematic literature review findings, offering a replicable framework for future studies in software quality, data-intensive systems, and testing trends.
 
 ---
 
-## Data Collection Sources and Methods
-Data for this study was collected from the following online platforms:
+## 🧠 Research Questions
+1. **Which testing tools and frameworks for Big Data systems are most mentioned and recommended within developer communities (Stack Overflow, Medium, LinkedIn, Dev.to)?**
+2. **What testing methods and approaches for Big Data systems are frequently discussed on these platforms, emphasizing aspects such as quality, performance, and reliability?**
+3. ** What tools and methods are identified that differ from those found in the white literature?**
+4. **What are the key topics in the field of Big Data testing identified by analyzing all posts?**
 
-- **StackExchange API**: Extracted discussions, questions, and answers related to testing in Big Data systems.
-- **LinkedIn**: Mining of articles, posts, and publications by data engineering and testing experts.
-- **Medium**: Automated searches for technical articles using the Google Custom Search API.
-- **Dev.to**: Analysis of developer posts on frameworks, tools, and testing practices.
+---
+
+## 🌐 Data Sources & Collection Methods
+Data was gathered from:
+   - Stack Exchange API: Stack Overflow, Software Engineering, and SQA forums.
+   - Google Custom Search API: Scraping of LinkedIn, Medium, and Dev.to posts.
+   - Time span: 2015 to 2024
+   - Resulting in 3,301 unique links and a filtered set of 760 relevant posts.
 
 The data was processed and filtered to ensure high quality, focusing on content published from 2014 to 2024 that discusses tools, methods, and best practices for Big Data testing.
 
 ---
 
-## Dataset
+## 📁 Repository Structure
+```bash
+.
+├── data/                # Cleaned and structured datasets
+├── documents/           # Protocols and methodology descriptions
+├── images/              # Charts, graphs, and figures
+├── scripts/             # Python scripts for scraping, mining, and processing
+├── topic modeling/      # LDA topic modeling files and visualization
+├── LICENSE              # Licensing information
+└── README.md            # Project overview
+```
+---
 
-This folder contains all the data resulting from the mining process:
-
-- [**Testing-Tools-in-BigData-Articles.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/Testing-Tools-in-BigData-Articles.xlsx): Table containing details about articles and discussions related to testing tools in Big Data systems. It includes article ID, publication year, source, and specific tools and practices mentioned.
-- [**StackExchange-Data-Results.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/StackExchange-Data-Results.xlsx): Table with results from queries performed on the Stack Exchange Data Explorer, showing relevant discussions, tags, and keywords associated with Big Data testing tools and practices.
-- [**LinkedIn-Data-Results.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/LinkedIn-Data-Results.xlsx): Table with mining results from LinkedIn posts and articles about Big Data testing tools and methods.
-- [**DevTo-Data-Results.xlsx**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/dataset/DevTo-Data-Results.xlsx): Table containing developer posts related to Big Data testing, including tools, techniques, and methodologies.
+## 📊 Dataset
+Located in data/:
+   - custom_search_links_all_StackExchange.xlsx
+   - custom_search_links_all_Medium.xls
+   - custom_search_links_all_LinkedIn.xlsx
+   - custom_search_links_all_DevTo.xlsx
+   - extracted_posts_with_content.xls  #To use in LDAvis
+Each file includes source metadata, post excerpts, detected keywords, and classification as "Tool" or "Method".
 
 ---
 
-## Figures
-
+## 📈 Figures
 This folder contains visualizations and charts related to the analysis of the data:
+- [**Methodology.png**](images/method-MSR.png) The methodology
+- [**Top-Testing-Tools.png**](images/Frequency-Tools.png): A bar chart showing the most frequently mentioned testing tools, such as Selenium, JUnit, Postman, etc.
+- [**Top-Testing-Methods.png**](images/Frequency-Methods.png):  A bar chart depicting the most commonly mentioned testing methods, including Unit Testing, Regression Testing, and Load Testing.
+- [**Data-Source-Distribution.png**](images/Posts-Source.png):  A bar chart showing the distribution of data collected from each source (e.g., StackExchange, LinkedIn, Medium, Dev.to).
+- The graphs showing the trends in Big Data testing practices over time (2014-2024).
+- ![image](https://github.com/user-attachments/assets/9aa2b5a1-f5d9-4458-b7e3-f31cbaa0a38e) : Topic modeling visualization of mined posts using LDAvis
 
-- [**Top-Testing-Tools.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Top-Testing-Tools.png): A bar chart showing the most frequently mentioned testing tools, such as Selenium, JUnit, and others.
-- [**Top-Testing-Methods.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Top-Testing-Methods.png): A chart depicting the most commonly mentioned testing methods, including Unit Testing, Regression Testing, and Load Testing.
-- [**Data-Source-Distribution.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Data-Source-Distribution.png): A pie chart showing the distribution of data collected from each source (e.g., StackExchange, LinkedIn, Medium, Dev.to).
-- [**Testing-Practices-Trends.png**](https://github.com/Icaro0S/testing-tools-bigdata/tree/main/figures/Testing-Practices-Trends.png): A graph showing the trends in Big Data testing practices over time (2014-2024).
+- ![Captura de tela 2025-04-23 183051](https://github.com/user-attachments/assets/da808d93-40dc-4a09-80f7-bdb90837e6fa): Topic modeling visualization of the white literature corpus using LDAvis
+
 
 ---
 
-## Documentation
-
+## 📜 Documentation
 This folder contains the relevant documents detailing the methodology and protocols used in this study:
-
-- [**Data-Mining-Protocol.pdf**](https://github.com/Icar0S/Testing-big-data-Ten-years-of-Mining-Repositories/blob/main/documents/Protocol%20Research%20-%20Testing%20big%20data_%20Ten%20years%20of%20Mining%20Repositories.pdf): The Data Mining Protocol used to collect and process data from StackExchange, LinkedIn, Medium, and Dev.to, including inclusion and exclusion criteria.
-
----
-
-## Research Methodology
-
-This study utilized a systematic data mining approach, with the following key phases:
-
-1. **Definition of Keywords**: Keywords such as "Big Data test tools", "Unit testing", "Regression testing", and "Selenium" were defined to ensure comprehensive and relevant searches across platforms.
-   
-2. **Data Mining**: Queries were executed on StackExchange, LinkedIn, Medium, and Dev.to using both manual and automated processes. The search strings were refined based on relevance and the occurrence of testing-related content.
-
-3. **Data Processing**: Extracted data was normalized into a tabular format, deduplicated, and analyzed for relevance to the research questions.
-
-4. **Final Dataset Creation**: The dataset was created with fields including source, category (tool or practice), detailed descriptions, and relevance scores based on mentions and interactions.
-
-5. **Analysis**: Data was analyzed for trends and patterns related to Big Data testing tools, methods, and practices. Key findings were visualized using charts and graphs.
+- [**Data-Mining-Protocol.pdf**](documents/Protocol Research - Testing big data_ Ten years of Mining Repositories.pdf): Detailed methodology, inclusion/exclusion criteria, data cleaning pipeline, and validation steps.
 
 ---
 
-## Ethical Considerations
-
-- **Compliance with Usage Policies**: All data was collected in compliance with the Terms of Service of the platforms and APIs used.
-- **Data Privacy**: No personal data was collected. Only publicly available technical content was used in this study.
+## 🛠️ Methodology Summary
+- Keyword-Based Scraping: Defined based on prior systematic reviews (e.g., Oliveira et al. 2024).
+- Automated Crawling: Python + BeautifulSoup + Requests for page content.
+- Classification: Regex-based detection of tools and testing types.
+- Topic Modeling: LDA + Gensim + PyLDAvis for semantic insights.
+- Comparison: Integration with systematic literature review to highlight alignment or divergence.
 
 ---
 
-## Future Work
+## ⚖️ Ethical Considerations
 
-This repository will continue to be updated with additional data as further mining efforts are conducted. Future work will focus on expanding the dataset and refining the analysis of Big Data testing practices.
+- Only public content was mined.
+- No login-restricted or private data was accessed.
+- API Terms of Use (Google, StackExchange) were followed.
+- No personal user data was retained or stored.
 
+---
+
+## 🚀 Future Work
+- Expand mining to additional platforms (e.g., GitHub Discussions, Reddit, Substack).
+- Apply Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to:
+   - Automatically summarize and contextualize testing practices.
+   - Classify emerging tool types and methods across domains.
+   - Generate real-time dashboards to track trends in testing and quality assurance.
+
+- Integrate ISO/IEC 25010 attributes for semantic classification of quality aspects.
+
+Enrich the topic modeling pipeline with hybrid unsupervised + embedding-based methods (e.g., BERTopic).
 For any inquiries or collaborations, please feel free to contact the repository owner.
 
 ---
