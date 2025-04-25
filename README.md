@@ -103,5 +103,3 @@ Enrich the topic modeling pipeline with hybrid unsupervised + embedding-based me
 For any inquiries or collaborations, please feel free to contact the repository owner.
 
 ---
-
-**To see more about the project, click** [here](https://github.com/Icaro0S/testing-tools-bigdata).
