@@ -47,7 +47,6 @@ stop_words.update(
         "need",
         "medium",
         "com",
-        "data",
         "test",
         "testing",
         "system",
@@ -163,11 +162,11 @@ dictionary = corpora.Dictionary(processed_docs)
 corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
 
 # ----- Treinamento do modelo LDA com ajustes -----
-lda_model = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=6, passes=2)
+lda_model = gensim.models.LdaModel(corpus, id2word=dictionary, num_topics=3, passes=3)
 
 
 # ----- Visualização interativa com pyLDAvis -----
 lda_display = pyLDAvis.gensim_models.prepare(lda_model, corpus, dictionary)
-pyLDAvis.save_html(lda_display, "lda-topics-miner-posts.html")
+pyLDAvis.save_html(lda_display, "lda-topics-miner-posts-v3-p5.html")
 
 print("✅ Visualização gerada: lda-topics-miner-posts.html")
