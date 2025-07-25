@@ -3,32 +3,55 @@ All scripts and data related to this research will be made publicly available.
 ## Mining Testing Tools and Practices for Big Data Systems
 
 ## 📌 Overview and Goal
-This research investigates the evolution of software testing tools and practices in Big Data systems by systematically mining gray literature from Stack Overflow, Medium, LinkedIn, and Dev.to (2015–2024). The goal is to extract and analyze industry-adopted testing frameworks (e.g., Selenium, JUnit), testing types (e.g., Unit Testing, Load Testing), and strategies employed in practical environments.
+This research investigates the evolution of software testing tools and practices in Big Data systems by systematically mining gray literature from Stack Overflow, Medium, LinkedIn, and Dev.to (2015–2024). The goal is to extract and analyze industry-adopted testing frameworks (e.g., Apache Spark, dbt, Great Expectations), testing types (e.g., Unit Testing, Integration Testing, Data Quality Testing), and strategies employed in practical environments.
 
-The study combines automated repository mining with a comparative analysis against systematic literature review findings, offering a replicable framework for future studies in software quality, data-intensive systems, and testing trends.
+The study combines automated repository mining with clustering techniques (K-Means, Bisecting K-Means, DBSCAN) and topic modeling (LDA), alongside a comparative analysis against systematic literature review findings from white literature. This offers a replicable framework for future studies in software quality, data-intensive systems, and testing trends, bridging academic and practical perspectives.
 
 ---
 
 ## 🧠 Research Questions
 1. **Which testing tools and frameworks for Big Data systems are most mentioned and recommended within developer communities (Stack Overflow, Medium, LinkedIn, Dev.to)?**
 2. **What testing methods and approaches for Big Data systems are frequently discussed on these platforms, emphasizing aspects such as quality, performance, and reliability?**
-3. ** What tools and methods are identified that differ from those found in the white literature?**
-4. **What are the key topics in the field of Big Data testing identified by analyzing all posts?**
+3. **Which identified tools and methods require further investigation in the formal scientific literature?**
+
+---
+## 📊 Key Findings
+- Tools: Apache Spark and dbt emerged as the most cited, followed by Great Expectations, Deequ/PyDeequ, and PySpark. These reflect a focus on scalable distributed processing and data validation.
+- Methods: Unit Testing, Integration Testing, and Data Quality Testing dominate discussions, adapted for Big Data challenges like pipelines and anomaly detection.
+- Gaps: Tools like dbt and Great Expectations, along with methods such as end-to-end pipeline testing, are underrepresented in academic literature, highlighting areas for future research.
+- Thematic Insights: Clustering and LDA revealed themes around data quality validation, ETL pipelines, and distributed testing, with a pragmatic industry focus complementing academic explorations.
+Detailed results, including cluster analyses and datasets, are available in the repository.
 
 ---
 
+## 🚀 How to Replicate
+
+1. Data Collection:
+Run scripts/ten-years-bigdata-testing.ipynb to mine links from platforms (2015–2024).
+Execute scripts/extract_content.py to fetch post texts.
+2. Preprocessing and Analysis:
+- Run scripts/ten-years-bigdata-testing.ipynb 
+- For clustering: scripts/ten-years-bigdata-testing.ipynb
+- For LDA: topic modeling/ (optimize topics via coherence).
+3. Manual Analysis:
+- Review selected clusters/topics in /data/clusters/ for tool/method extraction.
+4. Visualizations:
+- Generate plots with images/
+Full pipeline execution time: ~2-3 hours on a standard machine (Intel i7, 16GB RAM).
+
+---
 ## 🌐 Data Sources & Collection Methods
 Data was gathered from:
    - Stack Exchange API: Stack Overflow, Software Engineering, and SQA forums.
    - Google Custom Search API: Scraping of LinkedIn, Medium, and Dev.to posts.
    - Time span: 2015 to 2024
-   - Resulting in 3,301 unique links and a filtered set of 760 relevant posts.
+   - Resulting in 3,301 unique links.
 
 The data was processed and filtered to ensure high quality, focusing on content published from 2014 to 2024 that discusses tools, methods, and best practices for Big Data testing.
 
 ---
 
-## 📁 Repository Structure
+## 🛠️ Repository Structure
 ```bash
 .
 ├── data/                # Cleaned and structured datasets
@@ -39,16 +62,6 @@ The data was processed and filtered to ensure high quality, focusing on content 
 ├── LICENSE              # Licensing information
 └── README.md            # Project overview
 ```
----
-
-## 📊 Dataset
-Located in data/:
-   - custom_search_links_all_StackExchange.xlsx
-   - custom_search_links_all_Medium.xls
-   - custom_search_links_all_LinkedIn.xlsx
-   - custom_search_links_all_DevTo.xlsx
-   - extracted_posts_with_content.xls  #To use in LDAvis
-Each file includes source metadata, post excerpts, detected keywords, and classification as "Tool" or "Method".
 
 ---
 
@@ -64,6 +77,17 @@ This folder contains visualizations and charts related to the analysis of the da
 - ![image](https://github.com/user-attachments/assets/0273fca3-ec44-426d-9202-685242e1e5af) : Topic modeling visualization of the white literature corpus using LDAvis
 
 
+- The graphs showing the clusters kmeans, bkmeans, dbscan e a modelagem de tópicos lda
+<img width="1000" height="600" alt="cluster_viz" src="https://github.com/user-attachments/assets/9e3aca00-5275-447b-b02a-80e023f53cf5" /> : KMEANS
+
+<img width="1000" height="600" alt="cluster_viz_BKMEANS" src="https://github.com/user-attachments/assets/95ed5e30-771d-4854-a5f6-f581f0c9a20f" /> : BKMEANS
+
+<img width="1000" height="600" alt="cluster_viz_dbscan" src="https://github.com/user-attachments/assets/8b781708-f5fe-40a9-9a5b-fde80e67c461" /> : DBSCAN
+
+<img width="800" height="500" alt="lda_coherence_scores" src="https://github.com/user-attachments/assets/2ca4b3e1-3f26-432b-9d23-415026437ec3" /> : LDA scores
+
+
+
 ---
 
 ## 📜 Documentation
@@ -77,6 +101,7 @@ This folder contains the relevant documents detailing the methodology and protoc
 - Automated Crawling: Python + BeautifulSoup + Requests for page content.
 - Classification: Regex-based detection of tools and testing types.
 - Topic Modeling: LDA + Gensim + PyLDAvis for semantic insights.
+- Clusterization: KMEANS, BKMEANS, DBSCAN
 - Comparison: Integration with systematic literature review to highlight alignment or divergence.
 
 ---
